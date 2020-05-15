@@ -51,9 +51,9 @@
         # 'l10n_ar_aeroo_base',
         # 'report_aeroo',
     ],
-    'external_dependencies': {
-        'python': ['pyafipws'],
-    },
+    # 'external_dependencies': {
+    #     'python': ['pyafipws'],
+    # },
     'installable': True,
     'name': 'Automatic Argentinian Withholdings on Payments',
     'version': "13.0.1.0.0",
